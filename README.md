@@ -1,2 +1,2 @@
-# SYANPTIC-src
+# SYNAPTIC SOURCE
 Synaptic Static Content
